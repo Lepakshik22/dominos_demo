@@ -1,0 +1,7 @@
+browser = chrome
+websiteURL = https://www.dominos.co.in
+   
+   
+ourmenu= //*[@class='explore-heading']
+
+   
